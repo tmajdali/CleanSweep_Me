@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Floor>
+<Tile Name = "0,0">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>2</Left>
+	<ChargeStation>1</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "0,1">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "0,2">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "0,3">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "0,4">
+	<Surface>2</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "0,5">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "0,6">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "0,7">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "0,8">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "0,9">
+	<Surface>2</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+
+<Tile Name = "1,0">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "1,1">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "1,2">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "1,3">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "1,4">
+	<Surface>2</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "1,5">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "1,6">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "1,7">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "1,8">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "1,9">
+	<Surface>2</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+
+<Tile Name = "2,0">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "2,1">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "2,2">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "2,3">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "2,4">
+	<Surface>2</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "2,5">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "2,6">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "2,7">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "2,8">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "2,9">
+	<Surface>2</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+
+<Tile Name = "3,0">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "3,1">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "3,2">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "3,3">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "3,4">
+	<Surface>2</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "3,5">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "3,6">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "3,7">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "3,8">
+	<Surface>2</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "3,9">
+	<Surface>2</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+
+<Tile Name = "4,0">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>4</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "4,1">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "4,2">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "4,3">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "4,4">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "4,5">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "4,6">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "4,7">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "4,8">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "4,9">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+
+<Tile Name = "5,0">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "5,1">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "5,2">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "5,3">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "5,4">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "5,5">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "5,6">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "5,7">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "5,8">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "5,9">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+
+<Tile Name = "6,0">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "6,1">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "6,2">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "6,3">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "6,4">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "6,5">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "6,6">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "6,7">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "6,8">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "6,9">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+
+<Tile Name = "7,0">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "7,1">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "7,2">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "7,3">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "7,4">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "7,5">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "7,6">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "7,7">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "7,8">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "7,9">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+
+<Tile Name = "8,0">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "8,1">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "8,2">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "8,3">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "8,4">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "8,5">
+	<Surface>3</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "8,6">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "8,7">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>2</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "8,8">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "8,9">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+
+<Tile Name = "9,0">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>0</Right>
+	<Back>0</Back>
+	<Left>2</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "9,1">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "9,2">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "9,3">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "9,4">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "9,5">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "9,6">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "9,7">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>2</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "9,8">
+	<Surface>1</Surface>
+	<Front>0</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+<Tile Name = "9,9">
+	<Surface>1</Surface>
+	<Front>2</Front>
+	<Right>2</Right>
+	<Back>0</Back>
+	<Left>0</Left>
+	<ChargeStation>0</ChargeStation>
+	<Dirt>0</Dirt>	
+</Tile>
+</Floor>
